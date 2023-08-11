@@ -3,6 +3,7 @@
 ### dependencies 
 
 - i3
-- polybar
-- alacritty
-- nitrogen
+- Polybar
+- Alacritty
+- Nitrogen
+- Picom
